@@ -25,4 +25,4 @@ Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka
 
 
 Dashboard- Vrinda Store Annual report 
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![](https://github.com/SayanDasMahapatra/Excel_Vrinda_Store_AnalysisExcel_Vrinda_Store_Analysis/blob/main/vrinda%20store%20annual%20report.png)
